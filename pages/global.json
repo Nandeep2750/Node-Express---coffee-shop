@@ -1,4 +1,18 @@
 {
     "title" : "Nandeep's Coffee House",
-    "description": "Welcome to my house of coffee! We hope you enjoy our broad selection of premium coffee from all over the world."
+    "description": "Welcome to my house of coffee! We hope you enjoy our broad selection of premium coffee from all over the world.",
+    "hours":[
+        {
+            "day": "Mon-Fri",
+            "time": "6 AM - 10 PM"
+        },
+        {
+            "day": "Saturday",
+            "time": "6 AM - 11 PM"
+        },
+        {
+            "day": "Sunday",
+            "time": "7 AM - 9 PM"
+        }
+    ]
 }

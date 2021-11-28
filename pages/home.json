@@ -1,0 +1,40 @@
+{
+    "hero":{
+        "header": "Drink Healthy <br> and Natural Coffee!",
+        "subtext": "At Nandeep's Coffee House, We only brew the freshest coffee from all around the world. We also serve pastries such as cupcakes and brownies.",
+        "gb_image": "/images/barista.jpg",
+        "menu":[
+            {
+                "name":"Cappuccino",
+                "img":"images/menu-1.jpg"
+            },
+            {
+                "name":"Espresso",
+                "img":"images/menu-2.jpg"
+            },
+            {
+                "name":"Caffè Latte",
+                "img":"images/menu-3.jpg"
+            }
+        ]
+    },
+    "about":{
+        "header": "Welcome to the Nandeep's Coffee House",
+        "subtext": "Nandeep's Coffee House offers a unique coffee house environment unlike any other in Macon. We are not only a place to drop in and get your morning cup of coffee (although you are more than welcome to do that), we are a place where you can sit down and enjoy that tailor-made cup of coffee. If you need to work, we have a seating area created specifically for you.",
+        "gb_image": "/images/coffee-about.jpg",
+        "specialities":[
+            {
+                "caption":"Coffee",
+                "img":"images/coffee.jpg"
+            },
+            {
+                "caption":"Tea",
+                "img":"images/tea.jpg"
+            },
+            {
+                "caption":"Cup cake",
+                "img":"images/cupcake.jpg"
+            }
+        ]
+    }
+}
